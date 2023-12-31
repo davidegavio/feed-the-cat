@@ -1,7 +1,7 @@
 {
     "name": "Feed The Cat",
     "version": "0.0.1",
-    "description": "Feed reader using Cheshire Cat AI",
+    "description": "Feed reader using Cheshire Cat AI. WIP",
     "author_name": "Davide Gavio",
     "author_url": "https://github.com/davidegavio",
     "plugin_url": "https://github.com/davidegavio/feed-the-cat",
