@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
+    "name": "Feed The Cat",
     "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "description": "Feed reader using Cheshire Cat AI. WIP",
+    "author_name": "Davide Gavio",
+    "author_url": "https://github.com/davidegavio",
+    "plugin_url": "https://github.com/davidegavio/feed-the-cat",
+    "tags": "cat, rss, news",
+    "thumb": "https://raw.githubusercontent.com/my_repo_path/feed_the_cat.png"
 }
