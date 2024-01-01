@@ -3,6 +3,8 @@ import os
 import pandas as pd
 import re
 import feedparser
+import logging
+
 
 
 rss_feeds_csv_path = os.path.join(
@@ -47,4 +49,4 @@ def extract_site_name(url):
     
 def fetch_rss_data(url):
     feed = feedparser.parse(url)
-    return list(feed.entries)
+    return feed.entries
