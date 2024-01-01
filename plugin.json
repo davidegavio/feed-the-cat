@@ -1,7 +1,7 @@
 {
     "name": "Feed The Cat",
     "version": "0.0.3",
-    "description": "Feed reader using Cheshire Cat AI. WIP",
+    "description": "Feed reader using Cheshire Cat AI. It is a powerful and easy-to-use plugin that helps you stay up-to-date with your favorite websites and blogs. With this plugin, you can easily add, manage, and view your RSS feeds all in one place.",
     "author_name": "Davide Gavio",
     "author_url": "https://github.com/davidegavio",
     "plugin_url": "https://github.com/davidegavio/feed-the-cat",
